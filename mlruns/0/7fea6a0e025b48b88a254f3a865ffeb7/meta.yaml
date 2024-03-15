@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/7fea6a0e025b48b88a254f3a865ffeb7/artifacts
+end_time: 1710492800111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fea6a0e025b48b88a254f3a865ffeb7
+run_name: gaudy-colt-933
+run_uuid: 7fea6a0e025b48b88a254f3a865ffeb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710492785876
+status: 3
+tags: []
+user_id: dustin

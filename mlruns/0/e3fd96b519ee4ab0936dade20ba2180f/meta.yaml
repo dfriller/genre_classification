@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/e3fd96b519ee4ab0936dade20ba2180f/artifacts
+end_time: 1710492800209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3fd96b519ee4ab0936dade20ba2180f
+run_name: rebellious-deer-725
+run_uuid: e3fd96b519ee4ab0936dade20ba2180f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710492698826
+status: 3
+tags: []
+user_id: dustin

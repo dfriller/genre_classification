@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/44066e70615545dd9954de15c8c38bc9/artifacts
+end_time: 1710494177930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44066e70615545dd9954de15c8c38bc9
+run_name: skillful-bear-785
+run_uuid: 44066e70615545dd9954de15c8c38bc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710494161439
+status: 3
+tags: []
+user_id: dustin

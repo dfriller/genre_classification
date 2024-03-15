@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/5a7f578b22b840f9a33c0f2657672747/artifacts
+end_time: 1710432779584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a7f578b22b840f9a33c0f2657672747
+run_name: flawless-steed-312
+run_uuid: 5a7f578b22b840f9a33c0f2657672747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710432767955
+status: 3
+tags: []
+user_id: dustin

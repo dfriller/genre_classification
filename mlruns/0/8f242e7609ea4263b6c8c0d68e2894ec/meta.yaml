@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/8f242e7609ea4263b6c8c0d68e2894ec/artifacts
+end_time: 1710494130504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f242e7609ea4263b6c8c0d68e2894ec
+run_name: dashing-whale-555
+run_uuid: 8f242e7609ea4263b6c8c0d68e2894ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710494117073
+status: 3
+tags: []
+user_id: dustin

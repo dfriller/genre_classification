@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/bd4ff7adddb04d3eba515f0bfaa5208c/artifacts
+end_time: 1710433318697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd4ff7adddb04d3eba515f0bfaa5208c
+run_name: honorable-snipe-800
+run_uuid: bd4ff7adddb04d3eba515f0bfaa5208c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710433298263
+status: 3
+tags: []
+user_id: dustin

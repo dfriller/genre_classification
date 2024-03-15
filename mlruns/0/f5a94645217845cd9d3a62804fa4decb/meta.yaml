@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/f5a94645217845cd9d3a62804fa4decb/artifacts
+end_time: 1710432796336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5a94645217845cd9d3a62804fa4decb
+run_name: calm-doe-406
+run_uuid: f5a94645217845cd9d3a62804fa4decb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710432793137
+status: 4
+tags: []
+user_id: dustin

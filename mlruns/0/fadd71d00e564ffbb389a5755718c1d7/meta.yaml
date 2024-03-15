@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/fadd71d00e564ffbb389a5755718c1d7/artifacts
+end_time: 1710432983183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fadd71d00e564ffbb389a5755718c1d7
+run_name: placid-mole-838
+run_uuid: fadd71d00e564ffbb389a5755718c1d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710432869739
+status: 3
+tags: []
+user_id: dustin

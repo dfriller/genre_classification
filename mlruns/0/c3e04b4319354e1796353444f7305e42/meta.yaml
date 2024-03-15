@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/c3e04b4319354e1796353444f7305e42/artifacts
+end_time: 1710432894265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3e04b4319354e1796353444f7305e42
+run_name: skittish-cub-86
+run_uuid: c3e04b4319354e1796353444f7305e42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710432883169
+status: 3
+tags: []
+user_id: dustin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/225bb3c4d66247379d5db7ac8f41c145/artifacts
+end_time: 1710412912069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 225bb3c4d66247379d5db7ac8f41c145
+run_name: nebulous-sheep-742
+run_uuid: 225bb3c4d66247379d5db7ac8f41c145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710412868942
+status: 4
+tags: []
+user_id: dustin

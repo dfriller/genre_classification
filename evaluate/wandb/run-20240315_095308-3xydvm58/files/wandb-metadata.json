@@ -1,0 +1,27 @@
+{
+    "os": "macOS-13.1-arm64-arm-64bit",
+    "python": "3.8.18",
+    "heartbeatAt": "2024-03-15T08:53:09.056009",
+    "startedAt": "2024-03-15T08:53:08.349064",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "starter/evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/dfriller/genre_classification.git",
+        "commit": "33dbc5b982e9e88a8c8ad1b5873a4936463293cd"
+    },
+    "email": "dustin.friedline@gmail.com",
+    "root": "/Users/dustin/PycharmProjects/genre_classification",
+    "host": "Air-von-Dustin",
+    "username": "dustin",
+    "executable": "/opt/anaconda3/envs/mlflow-1e2fdd3992a3ea419120f534065d480071713fcc/bin/python"
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/ba62fdba2c1f45f2b01757ef7480304a/artifacts
+end_time: 1710492760862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba62fdba2c1f45f2b01757ef7480304a
+run_name: adaptable-whale-669
+run_uuid: ba62fdba2c1f45f2b01757ef7480304a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710492746472
+status: 3
+tags: []
+user_id: dustin

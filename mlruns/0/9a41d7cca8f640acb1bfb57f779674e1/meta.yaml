@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/9a41d7cca8f640acb1bfb57f779674e1/artifacts
+end_time: 1710492731822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a41d7cca8f640acb1bfb57f779674e1
+run_name: worried-smelt-401
+run_uuid: 9a41d7cca8f640acb1bfb57f779674e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710492714302
+status: 3
+tags: []
+user_id: dustin

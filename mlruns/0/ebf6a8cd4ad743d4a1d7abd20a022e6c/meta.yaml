@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/ebf6a8cd4ad743d4a1d7abd20a022e6c/artifacts
+end_time: 1710432983086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebf6a8cd4ad743d4a1d7abd20a022e6c
+run_name: delightful-doe-23
+run_uuid: ebf6a8cd4ad743d4a1d7abd20a022e6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710432960004
+status: 3
+tags: []
+user_id: dustin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/da7e1a78b0f247bb97f772282f6ce54f/artifacts
+end_time: 1710433269353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da7e1a78b0f247bb97f772282f6ce54f
+run_name: funny-crane-992
+run_uuid: da7e1a78b0f247bb97f772282f6ce54f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710433252639
+status: 3
+tags: []
+user_id: dustin

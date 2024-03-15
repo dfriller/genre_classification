@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/e175549247db4ccf9b18bf59e12b98a5/artifacts
+end_time: 1710494178021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e175549247db4ccf9b18bf59e12b98a5
+run_name: flawless-roo-963
+run_uuid: e175549247db4ccf9b18bf59e12b98a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710494067270
+status: 3
+tags: []
+user_id: dustin

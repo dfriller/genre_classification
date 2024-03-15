@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/2b8dd151e0ed43c6a9bb0656b5ee97da/artifacts
+end_time: 1710432883151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b8dd151e0ed43c6a9bb0656b5ee97da
+run_name: dapper-duck-122
+run_uuid: 2b8dd151e0ed43c6a9bb0656b5ee97da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710432871131
+status: 3
+tags: []
+user_id: dustin

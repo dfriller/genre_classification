@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/56e3eafcc1964a15ab1587f091c7b7bf/artifacts
+end_time: 1710432796508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56e3eafcc1964a15ab1587f091c7b7bf
+run_name: dazzling-ox-829
+run_uuid: 56e3eafcc1964a15ab1587f091c7b7bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710432754522
+status: 4
+tags: []
+user_id: dustin

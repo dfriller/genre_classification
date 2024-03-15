@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/879c98f41fbc47dca9bc0e08e54a2a18/artifacts
+end_time: 1710432313932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 879c98f41fbc47dca9bc0e08e54a2a18
+run_name: stately-stag-582
+run_uuid: 879c98f41fbc47dca9bc0e08e54a2a18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710432270617
+status: 4
+tags: []
+user_id: dustin

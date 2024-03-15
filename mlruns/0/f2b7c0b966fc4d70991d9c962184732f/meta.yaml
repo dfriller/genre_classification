@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dustin/PycharmProjects/genre_classification/starter/mlruns/0/f2b7c0b966fc4d70991d9c962184732f/artifacts
+end_time: 1710433358006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2b7c0b966fc4d70991d9c962184732f
+run_name: shivering-calf-432
+run_uuid: f2b7c0b966fc4d70991d9c962184732f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710433250876
+status: 3
+tags: []
+user_id: dustin
